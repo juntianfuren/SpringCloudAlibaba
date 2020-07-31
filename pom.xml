@@ -64,5 +64,10 @@
 		<module>dubbo-01-api</module>
     <module>dubbo-01-provider</module>
     <module>dubbo-01-consumer</module>
+    <module>dubbo-02-consumer-fegin</module>
+    <module>dubbo-02-api</module>
+    <module>dubbo-02-provider-rest</module>
+    <module>dubbo-02-provider-springmvc</module>
+    <module>sentinel-01-provider</module>
   </modules>
 </project>
